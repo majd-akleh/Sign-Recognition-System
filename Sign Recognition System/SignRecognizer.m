@@ -5,7 +5,7 @@ function  SignRecognizer()
     for i = 1:1
         tic
 %         snapshot = imread('http://192.168.1.33:8080/photoaf.jpg');       
-         snapshot = imread('peppers.png');
+         snapshot = imread('shot.jpg');
         
         [info] = processImage( snapshot );
         toc
