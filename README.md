@@ -4,5 +4,7 @@ and convert them into spoken language words, using Image Processing and Machine 
 
 this project is still under development...
 
+video to demonstrate how it works: https://www.youtube.com/watch?v=KNxRqm2N0-E&t=1s
+
 developers are:
-majd akleh,  hussain hussain, marcel zakour
+Majd Akleh,  Hussain Hussain, Marcel Zakour
