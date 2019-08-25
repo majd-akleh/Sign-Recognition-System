@@ -8,3 +8,5 @@ video to demonstrate how it works: https://www.youtube.com/watch?v=KNxRqm2N0-E&t
 
 developers are:
 Majd Akleh,  Hussain Hussain, Marcel Zakour
+
+[![IMAGE ALT TEXT HERE](https://github.com/majd-akleh/Sign-Recognition-System/blob/master/Sign%20Recognition%20System/sign.JPG)](https://www.youtube.com/watch?v=KNxRqm2N0-E)
